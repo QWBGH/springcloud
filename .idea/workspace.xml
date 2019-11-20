@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0a3f796-653b-4789-b070-6f54acfc83eb" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-discovery/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-provider/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-client/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="180" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springcloud" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tomcat</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\springcloud\cloud-provider</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="be9febb7-2ccc-471a-85e4-5447621bd250" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cloud-discovery/src/main/java/com/clouddiscovery/CloudDiscoveryApplication.java" />
+        <option value="$PROJECT_DIR$/cloud-discovery/src/main/java/com/clouddiscovery/ServletInitializer.java" />
+        <option value="$PROJECT_DIR$/cloud-provider/src/main/java/com/cloud/provider/entity/User.java" />
+        <option value="$PROJECT_DIR$/cloud-provider/src/main/java/com/cloud/provider/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-client/src/main/java/com/cloud/client/CloudClientApplication.java" />
+        <option value="$PROJECT_DIR$/cloud-client/src/main/java/com/cloud/client/ServletInitializer.java" />
+        <option value="$PROJECT_DIR$/cloud-client/src/main/java/com/cloud/client/entity/User.java" />
+        <option value="$PROJECT_DIR$/cloud-client/src/main/java/com/cloud/client/feign/UserFeignClient.java" />
+        <option value="$PROJECT_DIR$/cloud-client/src/main/java/com/cloud/client/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/cloud-provider/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-discovery/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-provider/src/main/java/com/cloud/provider/CloudProviderApplication.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-client/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-provider/src/main/java/com/cloud/provider/ServletInitializer.java" />
+        <option value="$PROJECT_DIR$/cloud-provider/src/main/java/com/cloud/provider/java/com/cloud/provider/entity/User.java" />
+        <option value="$PROJECT_DIR$/cloud-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-provider/src/test/package.json" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/cloud-client/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1340" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="false" />
+      <showExcludedFiles Scope="false" ProjectPane="false" />
+      <autoscrollToSource ProjectPane="false" />
+      <sortByType ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springcloud" type="58d84e3e:PackageViewProjectNode" />
+              <item name="cloud-provider" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="springcloud" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="cloud-discovery" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="cloud-provider" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.VCS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\springcloud\cloud-provider\src\main\java\com\cloud\provider" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cloud.client.entity" />
+      <recent name="com.cloud.client.feign" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CloudDiscoveryApplication">
+    <configuration name="CloudClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.client.CloudClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudDiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-discovery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.clouddiscovery.CloudDiscoveryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.provider.CloudProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.CloudClientApplication" />
+      <item itemvalue="Spring Boot.CloudDiscoveryApplication" />
+      <item itemvalue="Spring Boot.CloudProviderApplication" />
+    </list>
+  </component>
+  <component name="SpringBeansView">
+    <option name="showModules" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",YAML_SHOW_RESOLVED_ALIAS_VALUES,ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0a3f796-653b-4789-b070-6f54acfc83eb" name="Default Changelist" comment="" />
+      <created>1574161314820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574161314820</updated>
+      <workItem from="1574161319537" duration="17808000" />
+      <workItem from="1574222048126" duration="4491000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22299000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="设计师" order="4" />
+      <window_info active="true" content_ui="combo" x="515" y="70" width="329" height="587" id="Project" order="5" sideWeight="0.87223166" visible="true" weight="0.22421524" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3407155" />
+      <window_info anchor="bottom" id="Spring" order="1" weight="0.32879046" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32879046" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" weight="0.32879046" />
+      <window_info anchor="bottom" id="Java Enterprise" order="5" weight="0.32879046" />
+      <window_info anchor="bottom" id="Database Changes" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="13" weight="0.29812607" />
+      <window_info anchor="bottom" id="TODO" order="14" weight="0.4020443" />
+      <window_info anchor="bottom" id="Database" order="15" weight="0.32879046" />
+      <window_info anchor="bottom" id="Maven" order="16" weight="0.35434413" />
+      <window_info anchor="bottom" id="Bean Validation" order="17" weight="0.32879046" />
+      <window_info anchor="bottom" id="Ant Build" order="18" weight="0.24872231" />
+      <window_info anchor="bottom" id="Favorites" order="19" weight="0.32879046" />
+      <window_info anchor="bottom" id="Web" order="20" weight="0.32879046" />
+      <window_info anchor="bottom" id="Structure" order="21" sideWeight="0.12776831" weight="0.4770017" />
+      <window_info anchor="bottom" id="Run Dashboard" order="22" weight="0.49063033" />
+      <window_info anchor="right" id="控制板" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.33510637" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="设计师" order="4" />
+      <window_info active="true" content_ui="combo" x="515" y="70" width="329" height="587" id="Project" order="5" sideWeight="0.87223166" visible="true" weight="0.24140508" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3407155" />
+      <window_info anchor="bottom" id="Spring" order="1" weight="0.32879046" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32879046" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" weight="0.32879046" />
+      <window_info anchor="bottom" id="Java Enterprise" order="5" weight="0.32879046" />
+      <window_info anchor="bottom" id="Database Changes" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="13" visible="true" weight="0.29812607" />
+      <window_info anchor="bottom" id="TODO" order="14" weight="0.4020443" />
+      <window_info anchor="bottom" id="Database" order="15" weight="0.32879046" />
+      <window_info anchor="bottom" id="Maven" order="16" weight="0.35434413" />
+      <window_info anchor="bottom" id="Bean Validation" order="17" weight="0.32879046" />
+      <window_info anchor="bottom" id="Ant Build" order="18" weight="0.24872231" />
+      <window_info anchor="bottom" id="Favorites" order="19" weight="0.32879046" />
+      <window_info anchor="bottom" id="Web" order="20" weight="0.32879046" />
+      <window_info anchor="bottom" id="Structure" order="21" sideWeight="0.12776831" weight="0.4770017" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Coverage" order="1" side_tool="true" weight="0.33510637" />
+      <window_info anchor="right" id="控制板" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/springcloud$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1574168386601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/springcloud$CloudDiscoveryApplication.ic" NAME="CloudDiscoveryApplication Coverage Results" MODIFIED="1574167444223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cloud-discovery/.mvn/wrapper/maven-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-client/src/main/java/com/cloud/client/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="31" column="37" lean-forward="true" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+          <folding>
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#860#861#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+            <element signature="e#965#966#0" expanded="true" />
+            <element signature="e#1014#1015#0" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/security/spring-security-config/5.2.1.RELEASE/spring-security-config-5.2.1.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-106">
+          <caret line="92" column="22" selection-start-line="92" selection-start-column="22" selection-end-line="92" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-discovery/src/test/java/com/clouddiscovery/CloudDiscoveryApplicationTests.java" />
+    <entry file="file://D:/repository/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.0.4.RELEASE/spring-cloud-netflix-eureka-client-2.0.4.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/apache-maven-3.6.1/conf/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396" />
+      </provider>
+    </entry>
+    <entry file="file://D:/repository/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.0.2.RELEASE/spring-cloud-starter-netflix-eureka-client-2.0.2.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/spring-context/5.0.12.RELEASE/spring-context-5.0.12.RELEASE.jar!/org/springframework/context/annotation/ConfigurationClassParser.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-discovery/src/main/java/com/clouddiscovery/ServletInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider/src/test/java/com/cloud/provider/CloudProviderApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/cloud-client/src/test/java/com/cloud/client/CloudClientApplicationTests.java" />
+    <entry file="jar://D:/repository/org/springframework/spring-core/5.0.12.RELEASE/spring-core-5.0.12.RELEASE.jar!/org/springframework/core/Ordered.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/boot/spring-boot/2.0.8.RELEASE/spring-boot-2.0.8.RELEASE.jar!/org/springframework/boot/web/servlet/support/SpringBootServletInitializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="111" column="27" selection-start-line="111" selection-start-column="27" selection-end-line="111" selection-end-column="27" />
+          <folding>
+            <element signature="e#4981#4982#0" expanded="true" />
+            <element signature="e#5011#5012#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider/src/main/java/com/cloud/provider/ServletInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider/.mvn/wrapper/maven-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider/src/main/java/com/cloud/provider/java/com/cloud/provider/controller/UserController.java" />
+    <entry file="file://$PROJECT_DIR$/cloud-provider/src/main/java/com/cloud/provider/java/com/cloud/provider/entity/User.java" />
+    <entry file="file://$PROJECT_DIR$/cloud-provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-discovery/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider/src/test/package.json" />
+    <entry file="file://$PROJECT_DIR$/cloud-provider/src/main/java/com/cloud/provider/CloudProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="421" column="13" selection-start-line="421" selection-start-column="13" selection-end-line="421" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-discovery/src/main/java/com/clouddiscovery/CloudDiscoveryApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-client/src/main/java/com/cloud/client/CloudClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider/src/main/java/com/cloud/provider/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-679">
+          <caret line="381" column="25" selection-start-line="381" selection-start-column="25" selection-end-line="381" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-client/src/main/java/com/cloud/client/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-discovery/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider/src/main/java/com/cloud/provider/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+          <folding>
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+            <element signature="e#787#788#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#870#871#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-client/src/main/java/com/cloud/client/feign/UserFeignClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-393">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-client/src/main/java/com/cloud/client/ServletInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cloud-client</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
